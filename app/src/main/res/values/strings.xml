@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TreadmilHIIT</string>
+    <string name="scan">Scan</string>
+    <string name="ready">READY</string>
+</resources>
