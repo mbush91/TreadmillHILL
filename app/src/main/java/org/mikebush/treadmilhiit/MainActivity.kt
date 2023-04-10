@@ -22,6 +22,8 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
 import androidx.recyclerview.widget.ListAdapter
+import com.xtremeprog.sdk.ble.base.BleBaseActivity;
+
 
 private const val TAG = "MainActivity"
 
